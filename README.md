@@ -1,6 +1,12 @@
 # GeometricRealization
 SageMath functions for working Toric Varieties.
 
+A complement to the paper: 
+
+"Constructing geometric realizations of birational maps between Mori Dream Spaces",
+
+by Lorenzo Barban, Gianluca Occhetta, and Luis E. Solá Conde
+
 #############################################################
 
 Toric Functions.ipynb

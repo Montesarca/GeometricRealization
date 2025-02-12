@@ -1,5 +1,5 @@
 # GeometricRealization
-SageMath functions for working Toric Varieties.
+SageMath functions for working with Toric Varieties.
 
 A complement to the paper: 
 
